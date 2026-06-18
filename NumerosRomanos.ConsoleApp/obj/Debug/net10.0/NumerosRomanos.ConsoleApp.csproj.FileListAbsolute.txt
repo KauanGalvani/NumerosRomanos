@@ -12,3 +12,4 @@ C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.Console
 C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net10.0\NumerosRomanos.ConsoleApp.pdb
 C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net10.0\NumerosRomanos.ConsoleApp.genruntimeconfig.cache
 C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net10.0\ref\NumerosRomanos.ConsoleApp.dll
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net10.0\NumerosRomanos.ConsoleApp.sourcelink.json
