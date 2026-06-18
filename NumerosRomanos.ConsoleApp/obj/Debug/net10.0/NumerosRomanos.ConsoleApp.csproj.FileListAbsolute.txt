@@ -1,0 +1,14 @@
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\net10.0\NumerosRomanos.ConsoleApp.exe
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\net10.0\NumerosRomanos.ConsoleApp.deps.json
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\net10.0\NumerosRomanos.ConsoleApp.runtimeconfig.json
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\net10.0\NumerosRomanos.ConsoleApp.dll
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\bin\Debug\net10.0\NumerosRomanos.ConsoleApp.pdb
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net10.0\NumerosRomanos.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net10.0\NumerosRomanos.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net10.0\NumerosRomanos.ConsoleApp.AssemblyInfo.cs
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net10.0\NumerosRomanos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net10.0\NumerosRomanos.ConsoleApp.dll
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net10.0\refint\NumerosRomanos.ConsoleApp.dll
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net10.0\NumerosRomanos.ConsoleApp.pdb
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net10.0\NumerosRomanos.ConsoleApp.genruntimeconfig.cache
+C:\Users\kauan\Documents\CursoADP\Desafios\NumerosRomanos\NumerosRomanos.ConsoleApp\obj\Debug\net10.0\ref\NumerosRomanos.ConsoleApp.dll
